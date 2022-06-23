@@ -2,7 +2,8 @@
 tags: postgres, json, database, sql
 ---
 
-# [[2022-06-23 - querying json fields in postgres]]
+# [[2022-06-23 - Querying Json Fields in Postgres]]
+
 We have a number of things in our postgres database where we store them as json blobs, but sometimes we need to find out what's inside of the json blobs for debugging.
 
 There are two operators that are important to know.
