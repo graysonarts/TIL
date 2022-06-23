@@ -1,5 +1,7 @@
 ---
 tags: postgres, json, database, sql
+date: 2022-06-23
+title: Querying Json Fields in Postgres
 ---
 
 # [[2022-06-23 - Querying Json Fields in Postgres]]
