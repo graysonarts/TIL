@@ -4,7 +4,7 @@ date: 2022-06-25
 title: How to do MFA for the aws command line
 ---
 
-# [[2022-06-25 How to do MFA for the aws command line]]
+# [[2022-06-25  - How to do MFA for the aws command line]]
 
 ```
 #!/bin/bash -e
