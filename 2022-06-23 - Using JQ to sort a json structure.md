@@ -1,5 +1,5 @@
 ---
-tags: [ commandline, json, jq ]
+tags: [ dev/cli, dev/json, dev/cli/json ]
 date: 2022-06-23
 title: Using JQ to sort a json structure
 ---

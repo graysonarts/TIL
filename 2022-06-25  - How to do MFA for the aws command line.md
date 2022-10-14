@@ -1,5 +1,5 @@
 ---
-tags: [aws, mfa, commandline, security]
+tags: [software/aws, mfa, dev/cli, dev/security]
 date: 2022-06-25
 title: How to do MFA for the aws command line
 ---

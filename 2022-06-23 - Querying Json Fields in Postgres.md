@@ -1,5 +1,5 @@
 ---
-tags: [ postgres, json, database, sql ]
+tags: [ dev/database/postgres, dev/json, dev/database, dev/sql ]
 date: 2022-06-23
 title: Querying Json Fields in Postgres
 ---
